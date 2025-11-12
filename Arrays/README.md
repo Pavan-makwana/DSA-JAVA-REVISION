@@ -1,4 +1,4 @@
-# 🧠 Arrays – DSA Problems by Pavan Makwana
+#  Arrays – DSA Problems by Pavan Makwana
 
 This folder contains all the **Arrays**-related problems that I’ve solved in Java.  
 Each file includes a clear explanation, comments, and approach.
@@ -7,13 +7,15 @@ Each file includes a clear explanation, comments, and approach.
 
 ## 📘 Problems Solved
 
-| # | Problem | Approach | Time Complexity |
-|---|----------|-----------|----------------|
-| 1 | Example Problem | Simple demonstration | O(1) |
+| # | Problem              |        Approach       | Time Complexity|
+|---|----------------------|-----------------------|----------------|
+| 1 | Example Problem      | Simple demonstration  |       O(1)     |
+| 2 | Linear Search        | Linear Search ( for ) |       O(n)     |
+
 
 ---
 
-## 💡 Notes
+##  Notes
 - I update this list as I solve new problems.
 - Each file includes method explanations and logic breakdowns.
 
