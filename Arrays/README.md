@@ -11,6 +11,7 @@ Each file includes a clear explanation, comments, and approach.
 |---|----------------------|-----------------------|----------------|
 | 1 | Example Problem      | Simple demonstration  |       O(1)     |
 | 2 | Linear Search        | Linear Search ( for ) |       O(n)     |
+| 3 | Binary Search        | Binary Search ( while ) |       O(log n)     |
 
 
 ---
