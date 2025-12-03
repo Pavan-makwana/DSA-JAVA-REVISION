@@ -9,11 +9,10 @@ Each file includes a clear explanation, comments, and approach.
 
 | # | Problem              |        Approach         | Time Complexity|
 |---|----------------------|-----------------------  |----------------|
-| 1 | Example Problem      | Simple demonstration    |       O(1)     |
-| 2 | Linear Search        | Linear Search ( for )   |       O(n)     |
-| 3 | Binary Search        | Binary Search ( while ) |       O(log n) |
-| 4 | Reverse Array        | Swaping values          |       O(1)     |
-| 5 | SubArray             |   Using Nested loops    |       O(n^3)   |
+| 1 | Linear Search        | Linear Search ( for )   |       O(n)     |
+| 2 | Binary Search        | Binary Search ( while ) |       O(log n) |
+| 3 | Reverse Array        | Swaping values          |       O(1)     |
+| 4 | SubArray             |   Using Nested loops    |       O(n^3)   |
 
 
 ---
